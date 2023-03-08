@@ -1,6 +1,6 @@
 # Better Discord Screenshare Plugin
 
-With this plugin you can customize your resolution, framerate, bitrate and more for your screenshare! This plugin requires an [installation](https://github.com/BetterDiscord/BetterDiscord#manual-installation 'installation') of the [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord 'BetterDiscord') client.
+With this plugin you can customize your resolution, framerate, bitrate and more for your screenshare on discord! This plugin requires an [installation](https://github.com/BetterDiscord/BetterDiscord#manual-installation 'installation') of the [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord 'BetterDiscord') client.
 
 <div align='center'>
   <img src="./preview.png" height='450'>
@@ -12,12 +12,12 @@ To get the plugin you can create it yourself by cloning this repository or downl
 
 ## Features
 
-- **Capture** - Set a custom capture resolution and framerate
-- **Encode** - Set a custom encode resolution and framerate
-- **Bitrate** - Set a custom min, target and max bitrate
-- **Keyframe Interval** - Set a custom min, target and max bitrate
-- **Audio Source** - Set a custom audio source even when sharing a screen
-- **Codec** - Set a custom video and audio codec [OPUS, H264, VP8, VP9, AV1]
+- **Capture** - Set a custom capture resolution and framerate.
+- **Encode** - Set a custom encode resolution and framerate.
+- **Bitrate** - Set a custom min, target and max bitrate.
+- **Keyframe Interval** - Set a custom keyframe interval.
+- **Audio Source** - Set a custom audio source even when sharing a screen.
+- **Codec** - Set a custom video and audio codec [OPUS, H264, VP8, VP9, AV1].
 
 ## Default Config
 
