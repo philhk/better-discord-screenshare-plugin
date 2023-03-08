@@ -1,0 +1,119 @@
+Name: dium
+Version: 0.5.0
+License: MIT
+Private: true
+Description: Framework for Discord plugins.
+Repository: undefined
+Homepage: https://github.com/Zerthox/BetterDiscord-Plugins/tree/master/dium#readme
+Author: Zerthox
+
+---
+
+Name: ts-deepmerge
+Version: 6.0.2
+License: ISC
+Private: false
+Description: A TypeScript deep merge function.
+Repository: git@github.com:voodoocreation/ts-deepmerge.git
+Homepage: https://github.com/voodoocreation/ts-deepmerge#readme
+Author: Raice Hannay <voodoocreation@gmail.com>
+
+---
+
+Name: zustand
+Version: 4.3.6
+License: MIT
+Private: false
+Description: 🐻 Bear necessities for state management in React
+Repository: git+https://github.com/pmndrs/zustand.git
+Homepage: https://github.com/pmndrs/zustand
+Author: Paul Henschel
+Contributors:
+  Jeremy Holcomb (https://github.com/JeremyRH)
+  Daishi Kato (https://github.com/dai-shi)
+License Copyright:
+===
+
+MIT License
+
+Copyright (c) 2019 Paul Henschel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+---
+
+Name: use-sync-external-store
+Version: 1.2.0
+License: MIT
+Private: false
+Description: Backwards compatible shim for React's useSyncExternalStore. Works with any React that supports hooks.
+Repository: https://github.com/facebook/react.git
+License Copyright:
+===
+
+MIT License
+
+Copyright (c) Facebook, Inc. and its affiliates.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+---
+
+Name: idb-keyval
+Version: 6.2.0
+License: Apache-2.0
+Private: false
+Description: A super-simple-small keyval store built on top of IndexedDB
+Repository: git+https://github.com/jakearchibald/idb-keyval.git
+Homepage: https://github.com/jakearchibald/idb-keyval#readme
+Author: Jake Archibald
+License Copyright:
+===
+
+Copyright 2016, Jake Archibald
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
