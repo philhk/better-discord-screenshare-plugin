@@ -79,7 +79,7 @@ export const StreamQualitySection: React.FC = () => {
   useEffect(() => {
     const interval = setInterval(async () => {
       setWindowPreviews(await mediaEngine.getWindowPreviews(1, 1));
-    }, 2000);
+    }, 4000);
 
     return () => clearInterval(interval);
   }, []);
@@ -169,7 +169,7 @@ export const StreamQualitySection: React.FC = () => {
   };
 
   const bitrateProps: StreamQualitySectionSettingsGroupProps = {
-    title: 'Bitrate',
+    title: 'Bitrate (kbit/s)',
     settingElements: [
       <TextInput
         placeholder="Minimum"

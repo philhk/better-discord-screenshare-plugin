@@ -8,7 +8,7 @@ With this plugin you can customize your resolution, framerate, bitrate and more 
 
 ## Plugin
 
-To get the plugin you can create it yourself by cloning this repository or download it directly from the dist folder in this repository
+To get the plugin, you can either build it yourself by cloning this repository or download the latest version from the Releases tab.
 
 ## Features
 

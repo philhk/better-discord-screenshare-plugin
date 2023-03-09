@@ -18,10 +18,10 @@ export default defineConfig(() => ({
     }),
     license({
       sourcemap: true,
-      cwd: process.cwd(), // The default
+      cwd: process.cwd(),
 
       banner: {
-        commentStyle: 'ignored', // The default
+        commentStyle: 'ignored',
 
         content: {
           file: join(__dirname, 'LICENSE'),
@@ -32,6 +32,9 @@ export default defineConfig(() => ({
         includePrivate: true,
         output: {
           file: join(__dirname, 'dist', 'dependencies.txt'),
+        },
+        allow(dependency) {
+          return ['MIT', 'ISC'].includes(dependency.license);
         },
       },
     }),
@@ -46,6 +49,7 @@ export default defineConfig(() => ({
       formats: ['iife'],
     },
     rollupOptions: {
+      entry: resolve(__dirname, 'src/index.tsx'),
       external: ['react'],
       output: {
         globals: {

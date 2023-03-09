@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "dium": "https://gitpkg.now.sh/Zerthox/BetterDiscord-Plugins/packages/dium?master",
-    "idb-keyval": "^6.2.0",
+    "idb": "^7.1.1",
     "tiny-typed-emitter": "^2.1.0",
     "ts-deepmerge": "^6.0.2",
     "yarn": "^1.22.19",
@@ -23,5 +23,5 @@
     "vite": "^4.1.0",
     "vite-plugin-banner": "^0.7.0"
   },
-  "license": "MIT"
+  "license": "GPL v3"
 }
