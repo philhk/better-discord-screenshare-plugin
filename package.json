@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/betterdiscord": "github:zerthox/betterdiscord-types",
     "@types/node": "^18.15.1",
-    "@types/react": "^18.0.28",
+    "@types/react": "^18.0.32",
     "@types/react-dom": "^18.0.11",
     "rollup-plugin-license": "^3.0.1",
     "typescript": "^4.9.3",
