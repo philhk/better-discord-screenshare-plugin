@@ -639,10 +639,10 @@ tiny-typed-emitter@^2.1.0:
   resolved "https://registry.yarnpkg.com/tiny-typed-emitter/-/tiny-typed-emitter-2.1.0.tgz#b3b027fdd389ff81a152c8e847ee2f5be9fad7b5"
   integrity sha512-qVtvMxeXbVej0cQWKqVSSAHmKZEHAvxdF8HEUBFWts8h+xEo5m/lEiPakuyZ3BnCBjOD8i24kzNOiOLLgsSxhA==
 
-ts-deepmerge@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/ts-deepmerge/-/ts-deepmerge-6.0.2.tgz#ba4eca07c855a8cc75a9b7dd337df16c00bd0d02"
-  integrity sha512-/GPCwZfJylLU3i00vFwHa36YYvKY9F1Es/VhRESre7betW2cvxF05qwAD0vGlsKl93FEAB+2DoN/QrUw9VyBcg==
+ts-deepmerge@^6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/ts-deepmerge/-/ts-deepmerge-6.0.3.tgz#4ca1f7f3bf38b02e44b363702b7e5ed5fbffd0a9"
+  integrity sha512-MBBJL0UK/mMnZRONMz4J1CRu5NsGtsh+gR1nkn8KLE9LXo/PCzeHhQduhNary8m5/m9ryOOyFwVKxq81cPlaow==
 
 typescript@^4.9.3:
   version "4.9.5"

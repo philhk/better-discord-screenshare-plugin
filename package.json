@@ -9,7 +9,7 @@
     "dium": "https://gitpkg.now.sh/Zerthox/BetterDiscord-Plugins/packages/dium?master",
     "idb": "^7.1.1",
     "tiny-typed-emitter": "^2.1.0",
-    "ts-deepmerge": "^6.0.2",
+    "ts-deepmerge": "^6.0.3",
     "yarn": "^1.22.19",
     "zustand": "^4.3.6"
   },
