@@ -1,3 +1,7 @@
+# Important
+
+This version of the plugin is now discontinued because I'm now focusing on bringing it to Vencord. It's already done but of course in a unstable state like many plugins. I do my best to fix any issues and if you want to help find some or just want to use the plugin you can [build](https://github.com/philhk/Vencord/blob/main/docs/1_INSTALLING.md) my Vencord [fork](https://github.com/philhk/Vencord) yourself (Just note that the install guide is for the original repo, so you'll need to replace `git clone https://github.com/Vendicated/Vencord` with `git clone https://github.com/philhk/Vencord`). The best place to submit issues at this time is in my [pull request](https://github.com/Vendicated/Vencord/pull/730). If you still need help, please ask on the official [Vencord Discord server](https://discord.gg/vencord).
+
 # Better Discord Screenshare Plugin
 
 With this plugin you can customize your resolution, framerate, bitrate and more for your screenshare on discord! This plugin requires an [installation](https://github.com/BetterDiscord/BetterDiscord#manual-installation 'installation') of the [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord 'BetterDiscord') client.
